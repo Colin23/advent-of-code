@@ -5,3 +5,5 @@
 java/.gradle
 java/build
 
+### JavaScript ###
+javascript/node_modules
