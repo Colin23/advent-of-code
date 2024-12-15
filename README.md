@@ -4,7 +4,7 @@
 You can set up the repository in one of two ways
 1. Clone the solution repository with the private inputs submodule
     ```shell
-    git clone --recursive git@github.com:Colin23/advent-of-code.git
+    git clone --recurse-submodules git@github.com:Colin23/advent-of-code.git
     ```
 2. Clone the solution repository first, then initialize the private inputs submodule
     ```shell
